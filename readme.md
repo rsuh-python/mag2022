@@ -9,14 +9,21 @@
 **Теоретическая подгруппа**
 
 Дедлайны дз:
+
 hw01: 09.09.2022
+
 hw02: None
+
 hw03: 03.10.2022
 
 **Компьютерная подгруппа**
 
 Дедлайны дз: 
+
 hw01: 19.09.2022
+
 hw02: 03.10.2022
+
+hw03: 13.10.2022
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/1FotVIRBwCbvigkFsrpJCoVf_RX9PQy5T/edit?usp=sharing&ouid=101286824451590685803&rtpof=true&sd=true)
