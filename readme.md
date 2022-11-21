@@ -40,6 +40,10 @@ hw05: 08.11.2022
 
 hw06: 21.11.2022
 
+hw07: 07.12.2022
+
+hw08: 28.12.2022
+
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/1FotVIRBwCbvigkFsrpJCoVf_RX9PQy5T/edit?usp=sharing&ouid=101286824451590685803&rtpof=true&sd=true)
 
 **Для Матвея добавлено индивидуальное задание в папке CL/term01/ext.**
