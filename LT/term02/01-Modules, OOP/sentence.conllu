@@ -1,0 +1,15 @@
+1	На	на	ADP	_	_	2	case	_	PREPOSITION
+2	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	Locative	PLACE
+3	погибли	погибнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	Predicate	PHYSICAL_PSYCHIC_CONDITION
+4	25-летний	25-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	Time	UNIT_OF_TIME
+5	Тато	Тато	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	Experiencer	BEING
+6	Карепов	Карепов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	Name_Title	BEING
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	43-летняя	43-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	Time	UNIT_OF_TIME
+9	Наталья	Наталья	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	conj	Experiencer	BEING
+10	Карепова	Карепова	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	flat:name	Name_Title	_
+11	и	и	CCONJ	_	_	13	cc	_	COORDINATING_CONJUNCTIONS
+12	60-летняя	60-летний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	Time	UNIT_OF_TIME
+13	Шура	Шура	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	conj	Experiencer	BEING
+14	Таанани	Таанани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	flat:name	Name_Title	BEING
+15	.	.	PUNCT	_	_	3	punct	_	_
