@@ -24,6 +24,12 @@ hw05: 15.04.2023
 
 Дедлайны дз: 
 
+hw01: 03.04.2023
+
+hw02: 10.04.2023
+
+hw03: 17.04.2023
+
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/1FotVIRBwCbvigkFsrpJCoVf_RX9PQy5T/edit?usp=sharing&ouid=101286824451590685803&rtpof=true&sd=true)
 
