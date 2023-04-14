@@ -28,7 +28,11 @@ hw01: 03.04.2023
 
 hw02: 10.04.2023
 
-hw03: 17.04.2023
+hw03: 19.04.2023
+
+hw04: 26.04.2023
+
+hw05 ([competition](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)): 20.05.2023
 
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/1FotVIRBwCbvigkFsrpJCoVf_RX9PQy5T/edit?usp=sharing&ouid=101286824451590685803&rtpof=true&sd=true)
