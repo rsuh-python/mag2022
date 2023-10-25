@@ -1,0 +1,9 @@
+CLASSES : ['orange', 'brown']
+IMG_DIR : 'imgs'
+IMG_SIZE : 224
+BATCH_SIZE : 10
+EPOCHS : 40
+LR : 0.0005
+GAMMA : 0.25
+ES_PATIENCE : 8
+SEED : 42

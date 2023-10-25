@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+pandas
+shutup
+torch_lr_finder
+seaborn
+albumentations
+opencv-python
